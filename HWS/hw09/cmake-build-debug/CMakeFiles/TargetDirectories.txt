@@ -1,0 +1,4 @@
+/Users/willpelech/CLionProjects/hw09/cmake-build-debug/CMakeFiles/hw09-sing.dir
+/Users/willpelech/CLionProjects/hw09/cmake-build-debug/CMakeFiles/hw09.dir
+/Users/willpelech/CLionProjects/hw09/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/willpelech/CLionProjects/hw09/cmake-build-debug/CMakeFiles/rebuild_cache.dir

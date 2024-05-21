@@ -1,0 +1,4 @@
+/Users/willpelech/CLionProjects/hw08/cmake-build-debug/CMakeFiles/hw08.dir
+/Users/willpelech/CLionProjects/hw08/cmake-build-debug/CMakeFiles/hw08-sep.dir
+/Users/willpelech/CLionProjects/hw08/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/willpelech/CLionProjects/hw08/cmake-build-debug/CMakeFiles/rebuild_cache.dir

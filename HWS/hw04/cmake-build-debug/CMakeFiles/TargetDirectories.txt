@@ -1,0 +1,3 @@
+/Users/willpelech/CLionProjects/hw04/cmake-build-debug/CMakeFiles/hw04.dir
+/Users/willpelech/CLionProjects/hw04/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/willpelech/CLionProjects/hw04/cmake-build-debug/CMakeFiles/rebuild_cache.dir

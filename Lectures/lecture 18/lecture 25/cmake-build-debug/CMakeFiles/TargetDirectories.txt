@@ -1,0 +1,3 @@
+/Users/willpelech/CLionProjects/lecture 25/cmake-build-debug/CMakeFiles/lecture_25.dir
+/Users/willpelech/CLionProjects/lecture 25/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/willpelech/CLionProjects/lecture 25/cmake-build-debug/CMakeFiles/rebuild_cache.dir
